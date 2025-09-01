@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
+  <diagram name="Page-1" id="UnVBxttZ5TpfcJHrWQAb">
+    <mxGraphModel dx="1034" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-1" target="A-FSxNoOUQTJ6Qw0XlNJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-1" target="A-FSxNoOUQTJ6Qw0XlNJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-1" value="&lt;i&gt;Script&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="215" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-2" target="A-FSxNoOUQTJ6Qw0XlNJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-2" value="&lt;i&gt;Project &lt;/i&gt;baru dibuat dalam aplikasi &lt;i&gt;Visual Studio Code&lt;/i&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="140" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-3" target="A-FSxNoOUQTJ6Qw0XlNJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-3" value="Informasi umum Yogyakarta" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="515" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-4" target="A-FSxNoOUQTJ6Qw0XlNJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-4" value="Penambahan &lt;i&gt;file&lt;/i&gt; baru dalam folder yang telah dipilih." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="230" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-5" target="A-FSxNoOUQTJ6Qw0XlNJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-5" value="Penamaan &lt;i&gt;file &lt;/i&gt;baru dengan &quot;index.html&quot;." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="320" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-6" target="A-FSxNoOUQTJ6Qw0XlNJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-6" value="Penulisan&lt;i&gt; script&lt;/i&gt; dengan bahasa HTML." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="410" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-7" target="A-FSxNoOUQTJ6Qw0XlNJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-7" value="&lt;i&gt;Extentions&lt;/i&gt; &quot;Go Live&quot; diunduh." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="590" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-8" target="A-FSxNoOUQTJ6Qw0XlNJ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-8" value="Penjalanan program." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="680" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-9" target="A-FSxNoOUQTJ6Qw0XlNJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-9" value="Penambahan elemen judul, sub judul, deskripsi, tabel, dan &lt;i&gt;list&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="500" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-10" target="A-FSxNoOUQTJ6Qw0XlNJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-10" value="Informasi dicari melalui &lt;i&gt;website&lt;/i&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="140" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-11" target="A-FSxNoOUQTJ6Qw0XlNJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-11" value="Deskripsi singkat disalin dan ditempel pada&lt;i&gt; script&lt;/i&gt; bagian paragraf." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="230" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-12" target="A-FSxNoOUQTJ6Qw0XlNJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-12" value="Jumlah laki-laki dan perempuan disalin dan ditempel dalam &lt;i&gt;script&lt;/i&gt; bagian tabel." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="320" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-13" target="A-FSxNoOUQTJ6Qw0XlNJ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="900" />
+              <mxPoint x="426" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-13" value="Nama-nama kecamatan disalin dan ditempel pada bagian &lt;i&gt;ordering list.&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="410" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-14" value="Tampilan halaman HTML sederhana profil daerah Yogyakarta." style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="333" y="920" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-29" target="A-FSxNoOUQTJ6Qw0XlNJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-29" target="A-FSxNoOUQTJ6Qw0XlNJ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-29" value="Berhasil" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-30" target="A-FSxNoOUQTJ6Qw0XlNJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-30" value="Tidak" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="295.5" y="850" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-FSxNoOUQTJ6Qw0XlNJ-31" target="A-FSxNoOUQTJ6Qw0XlNJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-FSxNoOUQTJ6Qw0XlNJ-31" value="Ya" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="465.5" y="850" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
